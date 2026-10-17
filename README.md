@@ -3,8 +3,7 @@
 A personal portfolio website for L. Deanisha, a fourth-year B.Tech student in Computer Science and Engineering (AI & ML) at Mohan Babu University.
 
 ## Live Demo
-
-**https://deanu58.github.io/my persnol portfolio**
+https://deanu58.github.io/ldeanisha/
 
 ## About
 
