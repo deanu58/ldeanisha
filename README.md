@@ -4,7 +4,7 @@ A personal portfolio website for L. Deanisha, a fourth-year B.Tech student in Co
 
 ## Live Demo
 
-**https://deanu58.github.io/portfolio/**
+**https://github.com/deanu58/ldeanisha/blob/main/index.html**
 
 ## About
 
